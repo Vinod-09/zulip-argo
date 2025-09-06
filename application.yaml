@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/alsamdevops/zulip-argo.git
+    repoURL: https://github.com/Vinod-09/zulip-argo.git
     targetRevision: HEAD
     path: dev
   destination: 
