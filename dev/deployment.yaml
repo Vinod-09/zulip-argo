@@ -105,7 +105,7 @@ spec:
             - name: SECRETS_email_password
               value: "123456789"
             - name: SETTING_EXTERNAL_HOST
-              value: "192.168.137.10"
+              value: "192.168.137.2"
             - name: SETTING_ZULIP_ADMINISTRATOR
               value: "admin@example.com"
             - name: SETTING_EMAIL_HOST
